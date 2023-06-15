@@ -5,8 +5,8 @@ you can find basics of Web Development in the files you can Easily Learn from th
 
 #Seprate file of Each Langauage
 
-For # Html there are files from basic to Advance
-For # Css there are files from basic to Advance
+For # Html there are files from basic to Advance.
+For # Css there are files from basic to Advance.
 
 But for Javascript i gonna suggest you To Install Nodejs and run in on terminal first after learning some very basic instruction
 There are instructions in the js file folder you can learn how to run js in console as well
