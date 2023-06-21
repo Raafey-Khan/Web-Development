@@ -9,7 +9,7 @@ For # Html there are files from basic to Advance.
 For # Css there are files from basic to Advance.
 
 But for Javascript i gonna suggest you To Install Nodejs and run in on terminal first after learning some very basic instruction
-There are instructions in the js file folder you can learn how to run js in console as well
+There are instructions in the js file folder you can learn how to run js in console as well it will be also great to start
 
 Overall I hope you like these Repo it will be gald if you contibute and give a star ,it will mean a Lot to me ,....Thank you;
 
