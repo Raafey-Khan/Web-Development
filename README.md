@@ -13,4 +13,5 @@ There are instructions in the js file folder you can learn how to run js in cons
 
 Overall I hope you like these Repo it will be gald if you contibute and give a star ,it will mean a Lot to me ,....Thank you;
 
+you can do a pull request if anythings wrong
 # Till then Happy Coding 
