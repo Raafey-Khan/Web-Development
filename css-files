@@ -1,0 +1,29 @@
+<DOCTYPE html>
+
+
+<html>
+<head>
+
+
+<style>
+
+p // this is called css selector{
+
+  border: 1px solid; // and here is the property and the property value
+  color: rgb(255,0,255)
+}
+
+</style>
+</head>
+
+<body>
+
+<p>Hello world</p>
+
+
+
+</body>
+
+
+
+</html>
