@@ -4,6 +4,7 @@ Hello guys finally Web Development Repo is in the lane
 # Project 1 Tribute Website 
 
 # Project 2 Job Application 
+https://developers-choice.github.io/live-project2/
 
 # Project 3 Paralex Website
 https://developers-choice.github.io/live-project1/
