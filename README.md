@@ -1,5 +1,13 @@
 # Web-Development
 Hello guys finally Web Development Repo is in the lane
+
+# Project 1 Tribute Website 
+
+# Project 2 Job Application 
+
+# Project 3 Paralex Website
+https://developers-choice.github.io/live-project1/
+
 # Core Web Development without additional stuffs
 you can find basics of Web Development in the files you can Easily Learn from them especially if your looking for Doing Hands on Coding
 
