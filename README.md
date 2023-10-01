@@ -18,6 +18,10 @@ https://developers-choice.github.io/live_project4/
 
 https://developers-choice.github.io/live-project-5/
 
+# Project 6 myTunes Extended Version
+
+https://developers-choice.github.io/live_project6/
+
 # Core Web Development without additional stuffs
 you can find basics of Web Development in the files you can Easily Learn from them especially if your looking for Doing Hands on Coding
 
