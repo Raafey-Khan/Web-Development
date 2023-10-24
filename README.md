@@ -22,6 +22,10 @@ https://developers-choice.github.io/live-project-5/
 
 https://developers-choice.github.io/live_project6/
 
+# Project 7 Youtube Landing Page
+
+https://developers-choice.github.io/live-project7/
+
 # Core Web Development without additional stuffs
 you can find basics of Web Development in the files you can Easily Learn from them especially if your looking for Doing Hands on Coding
 
