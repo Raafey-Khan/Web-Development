@@ -8,7 +8,7 @@ https://developers-choice.github.io/live-project3/
 https://developers-choice.github.io/live-project2/
 
 # Project 3 Paralex Website
-https://developers-choice.github.io/live-project1/
+https://developers-choice.github.io/Paralex-Website/
 
 # Project 4 Developer's Landing Page
 
